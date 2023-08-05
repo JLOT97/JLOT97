@@ -41,8 +41,8 @@ Developed a Machine Learning credit scoring system using clustering and regressi
 
 ## Projects 📚
 
-- [ANALYSIS OF MOOCS PROJECT](https://github.com/jorgemilenio15/MOOCs) (May 2023)
-- [MLOPS PROJECT](https://github.com/jorgemilenio15/Stream-ML) (Jun 2023)
+- [ANALYSIS OF MOOCS PROJECT](https://github.com/JLOT97/MOOCs) (May 2023)
+- [MLOPS PROJECT](https://github.com/JLOT97/Stream-ML) (Jun 2023)
 
 ## Social networks 🔗
 
