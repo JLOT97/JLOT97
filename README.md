@@ -57,4 +57,4 @@ Developed a Machine Learning credit scoring system using clustering and regressi
 
 
 
-Thanks for visiting my profile! Feel free to contact me via email at jl.tamara12345@gmail.com or call me at +573024690604.
+Thanks for visiting my profile! Feel free to contact me via email at jl.tamara12345@gmail.com or call me at +57 3245569962.
